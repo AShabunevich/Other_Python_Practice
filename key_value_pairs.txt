@@ -1,7 +1,0 @@
-*description call name: something
-*description dump path: stuff
-*description google way only: everything and more
-*description code file: all
-*description folder location: here
-*header
-12345678    12345678    12345678
